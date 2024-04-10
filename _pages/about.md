@@ -13,7 +13,7 @@ Research Interests
 ======
 * Natural Language Processing
 * Textual Sentiment Analysis
-* Hate speech detection
+* Hate Speech Detection
 
 Main Publications
 ======
