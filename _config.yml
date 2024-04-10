@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junyu Lu 卢俊宇"
+title                    : "Junyu Lu's Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Junyu Lu"
 description              : &description "personal description"
 url                      : https://dut-lujunyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
