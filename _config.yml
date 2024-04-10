@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Junyu Lu's Home Page"
 title_separator          : "-"
-name                     : &name "Junyu Lu"
+name                     : &name "Junyu Lu 卢俊宇"
 description              : &description "personal description"
 url                      : https://dut-lujunyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
