@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "Junyu Lu 卢俊宇"
+title: "About me"
+excerpt: Junyu Lu (卢俊宇)
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a first-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) at [Information Retrieval Laboratory]( http://ir.dlut.edu.cn), School of Computer Science and Technology, Dalian University of Technology, China. My research interests include hate speech detection, textual sentiment analysis, and natural language processing.
+I'm a first-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) at the School of Computer Science and Technology, Dalian University of Technology, China. And I'm a member of [Information Retrieval Laboratory (DUTIR)](http://ir.dlut.edu.cn). I like reading novels and watching movies.
 
+Research Interests
+======
+* Natural Language Processing
+* Textual Sentiment Analysis
+* Hate speech detection
 
 Main Publications
 ======
@@ -24,7 +30,6 @@ Education
 - 2021.9 - now, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 - 2021.9 - 2023.6, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 - 2017.9 - 2021.6, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-
 
 Experience
 ======
