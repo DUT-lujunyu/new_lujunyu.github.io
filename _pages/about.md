@@ -37,4 +37,4 @@ Experience
 
 Project
 ======
-**Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
+- **Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
