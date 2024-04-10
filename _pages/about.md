@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About me"
-excerpt: Junyu Lu (卢俊宇)
 author_profile: true
 redirect_from: 
   - /about/
