@@ -20,8 +20,8 @@ Main Publications
 Education
 ======
 - 2021.9 - now, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- 2021.9 - 2023.6, Master, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- 2017.9 - 2021.6, Bachelor Degree, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- 2021.9 - 2023.6, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- 2017.9 - 2021.6, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 
 
 Experience
