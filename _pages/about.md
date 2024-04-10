@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) at the School of Computer Science and Technology, Dalian University of Technology, China. And I'm a member of [Information Retrieval Laboratory (DUTIR)](http://ir.dlut.edu.cn). I like reading novels and watching movies.
+Welcome! I'm a first-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) at the School of Computer Science and Technology, Dalian University of Technology, China. And I'm a member of [Information Retrieval Laboratory (DUTIR)](http://ir.dlut.edu.cn). I like reading novels and watching movies.
 
 Research Interests
 ======
