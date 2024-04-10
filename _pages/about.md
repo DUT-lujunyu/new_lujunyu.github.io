@@ -12,8 +12,10 @@ I'm a first-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar
 Main Publications
 ======
 - Facilitating fine-grained detection of Chinese toxic language: Hierarchical taxonomy, resources, and benchmarks.
-    **Junyu Lu**, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang*, Hongfei Lin.
-    **ACL2023**. [[paper](https://aclanthology.org/2023.acl-long.898.pdf)] [[code](https://github.com/DUT-lujunyu/ToxiCN)]
+  
+  **Junyu Lu**, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang*, Hongfei Lin.
+
+  The 61st Annual Meeting Of The Association For Computational Linguistics. 2023. **ACL2023**. [[paper](https://aclanthology.org/2023.acl-long.898.pdf)] [[code](https://github.com/DUT-lujunyu/ToxiCN)]
 
 - Hate speech detection via dual contrastive learning.
   Junyu Lu, Hongfei Lin, Xiaokun Zhang, Zhaoqing Li, Tongyue Zhang, Linlin Zong, Fenglong Ma, Bo Xu. 
