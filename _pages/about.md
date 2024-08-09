@@ -35,7 +35,7 @@ Technical evaluation
 - 2024.7, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, 2nd Place in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
 - 2024.7, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, 1st Place in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
 - 2022.5, NLPCC2022 Task5 Track1 Multi-label Classification Model for English Scientific Literature, 2nd Place in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)] [[code](https://github.com/DUT-lujunyu/MHCAN)]
-- 2020.9, CCF-BDCI2020 E-commerce User Purchasing Behavior Prediction, 5th Place in 120+ Teams. [[task]([https://github.com/rangwang/CCAC2024-FS_Moderation](https://www.datafountain.cn/competitions/448))]
+- 2020.9, CCF-BDCI2020 E-commerce User Purchasing Behavior Prediction, 5th Place in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
 
 Internship
 ======
