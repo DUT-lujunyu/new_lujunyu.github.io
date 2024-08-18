@@ -41,7 +41,6 @@ Internship
 ======
 - 2022.7 - 2022.12, Research Intern, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China.
 
-
 Project
 ======
 - **Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
