@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+nd# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,7 +24,7 @@ author:
   avatar           : "cv.png"
   name             : "Junyu Lu 卢俊宇"
   pronouns         : # example: "she/her"  
-  bio              : "A first-year Ph.D. student at Dalian University of Technology"
+  bio              : "A second-year Ph.D. student at Dalian University of Technology"
   location         : "Dalian, China"
   employer         : # "Dalian University of Technology"
   uri              : # URL
