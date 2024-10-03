@@ -53,7 +53,7 @@ Project
 
 Awards
 ======
-- National Scholarship for Postgraduate Students in 2023.
-- Huawei Scholarship in 2022.
-- Excellent Postgraduate of Dalian University of Technology in 2022-2023.
-- First Prize Scholarship for Postgraduate of Dalian University of Technology in 2022-2023.
+- **National Scholarship**. The Ministry of Education of the People's Republic of China. 2023.
+- **Huawei Scholarship**. Huawei Technologies Co., Ltd. & Dalian University of Technology. 2022.
+- **First Prize Scholarship for Postgraduate**. Dalian University of Technology. 2022-2023.
+- **Excellent Postgraduate**. Dalian University of Technology. 2022-2023.
