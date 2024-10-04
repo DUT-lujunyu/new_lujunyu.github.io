@@ -17,10 +17,10 @@ Research Interests
   
 Main Publications
 ======
-- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin. _Towards Comprehensive Detection of Chinese Harmful Memes._ **NeurIPS 2024**. [[code](https://github.com/DUT-lujunyu/ToxiCN_MM)]
+- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin. _Towards Comprehensive Detection of Chinese Harmful Memes._ **NeurIPS 2024**. [[paper](https://arxiv.org/abs/2410.02378)] [[code](https://github.com/DUT-lujunyu/ToxiCN_MM)]
 - **Junyu Lu**, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang*, Hongfei Lin. _Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks._ **ACL 2023**. [[paper](https://aclanthology.org/2023.acl-long.898.pdf)] [[code](https://github.com/DUT-lujunyu/ToxiCN)]
 - **Junyu Lu**, Hongfei Lin, Xiaokun Zhang, Zhaoqing Li, Tongyue Zhang, Linlin Zong, Fenglong Ma, Bo Xu*. _Hate Speech Detection via Dual Contrastive Learning._ **TASLP 2023**. [[paper](https://ieeexplore.ieee.org/abstract/document/10180106)]
-- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang, Hongfei Lin*. _Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect._ **LREC-COLING 2024**. [[code](https://github.com/DUT-lujunyu/Debias)]
+- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang, Hongfei Lin*. _Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect._ **LREC-COLING 2024**. [[paper](https://aclanthology.org/2024.lrec-main.1353/)] [[code](https://github.com/DUT-lujunyu/Debias)]
 - **Junyu Lu**, Hao Zhang, Zhexu Shen, Kaiyuan Shi, Liang Yang, Bo Xu, Shaowu Zhang, Hongfei Lin*. _Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification._ **NLPCC 2022**. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)] [[code](https://github.com/DUT-lujunyu/MHCAN)] 
 
 Other Publications
