@@ -38,10 +38,10 @@ Education
 
 Technical Evaluation 
 =====
-- 2024.7, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, Chinese Information Processing Society of China, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
-- 2024.7, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, Chinese Information Processing Society of China, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
-- 2022.5, NLPCC2022 Task5 Track1 Multi-label Classification Model for English Scientific Literature, China Computer Federation, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
-- 2020.9, CCF-BDCI2020 E-commerce User Purchasing Behavior Prediction, China Computer Federation, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
+- 2024.7, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2024.7, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, _Chinese Information Processing Society of China_, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2022.5, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
+- 2020.9, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
 
 Experience
 ======
