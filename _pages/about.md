@@ -49,11 +49,18 @@ Experience
 
 Project
 ======
-- **Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
+- 2022.8, **Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
+- 2024.5, **Campus Intelligence System based on LLM**, Key Participants.
+
+Talk
+======
+- 2024.11, **NeurIPS2024 Pre-Presentation Meeting**. AI Time. [[news](https://mp.weixin.qq.com/s/pI64JxiMY_B1gQYp9h2jPw)][[video](https://www.bilibili.com/video/BV19hUUYdE2k)]
+- 2024.11, **Academic Forum for Doctoral Students in 2024**. School of Computer Science and Technology, Dalian University of Technology. [[news](https://mp.weixin.qq.com/s/b_Pa7PUG_dxToUaF3EbgAQ)]
 
 Awards
 ======
 - **National Scholarship**. The Ministry of Education of the People's Republic of China. 2023.
 - **Huawei Scholarship**. Huawei Technologies Co., Ltd. & Dalian University of Technology. 2022.
+- **Xianglian Scholarship**. Dalian University of Technology. 2024.
 - **First Prize Scholarship for Postgraduate**. Dalian University of Technology. 2022-2023.
 - **Excellent Postgraduate**. Dalian University of Technology. 2022-2023.
