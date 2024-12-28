@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a second-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) at the School of Computer Science and Technology, Dalian University of Technology, China. I'm also a member of [Information Retrieval Laboratory (DUTIR)](http://ir.dlut.edu.cn).
+Welcome! I'm a second-year Ph.D. student supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) at the School of Computer Science and Technology, Dalian University of Technology, China. I'm also a member of [Information Retrieval Laboratory (DUTIR)](http://ir.dlut.edu.cn). Here is my [CV](https://github.com/user-attachments/files/18264867/lujunyu_resume.pdf).
 
 Research Interests
 ======
