@@ -25,8 +25,10 @@ Main Publications
 
 Other Publications
 ======
-- Hongbo Wang, Mingda Li, **Junyu Lu**, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin*. _PclGPT: A Large Language Model for Patronizing and Condescending Language Detection._ **EMNLP 2024**. [[paper]( https://arxiv.org/abs/2410.00361)] [[code](https://github.com/dut-laowang/emnlp24-PclGPT)] 
-- Weiru Fu, **Junyu Lu**, Youlin Wu, Guangtao Xu, Liang Yang, Hongfei Lin*, Jian Wang. _CFAH: A Chinese Dataset for Detecting False Advertising in Healthcare._ **BIBM 2024**. [[code](https://github.com/FuWeiru/CFAH)] 
+- Hongbo Wang, Mingda Li, **Junyu Lu**, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin*. _PclGPT: A Large Language Model for Patronizing and Condescending Language Detection._ **EMNLP 2024**. [[paper]( https://arxiv.org/abs/2410.00361)] [[code](https://github.com/dut-laowang/emnlp24-PclGPT)]
+- Hongbo Wang, **Junyu Lu**, Yan Han, Kai Ma, Liang Yang, Hongfei Lin*. _Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector._ **ICASSP 2025**. [[paper](https://arxiv.org/abs/2409.05005)] [[code](https://github.com/dut-laowang/PCLMM)]
+- Haohao Zhu, Xiaokun Zhang, Zeyuan Zeng, **Junyu Lu**, Zewen Bai, Liang Yang, Hongfei Lin. _Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition._ **NAACL 2025**.
+- Weiru Fu, **Junyu Lu**, Youlin Wu, Guangtao Xu, Liang Yang, Hongfei Lin*, Jian Wang. _CFAH: A Chinese Dataset for Detecting False Advertising in Healthcare._ **BIBM 2024**. [[paper](https://ieeexplore.ieee.org/abstract/document/10822100/)] [[code](https://github.com/FuWeiru/CFAH)] 
 
 **Note**: * indicates the corresponding author. The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=mMaIn0QAAAAJ&hl=zh-CN).
 
